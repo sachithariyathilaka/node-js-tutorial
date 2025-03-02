@@ -1,5 +1,5 @@
 # Node JS Tutorial
-Node JS tutorial application 
+Node JS tutorial server-side and web-based application.
 
 * ### Technologies
 
