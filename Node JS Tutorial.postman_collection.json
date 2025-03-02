@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "b146927e-8a89-4ac2-9142-aa46777d6d21",
+		"name": "Node JS Tutorial",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "7110933"
+	},
+	"item": [
+		{
+			"name": "Welcome",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8090",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8090"
+				}
+			},
+			"response": []
+		}
+	]
+}
